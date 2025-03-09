@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif">
 
-- 🔭 I’m currently working on **Kapital Bank OJSC**
+- 🔭 I’m currently working on **International Bank of Azerbaijan OJSC**
 - 🌱 I’m currently learning **Hugging Face, LLM, GenAI**
 - 📫 How to reach me **ali.kalbaliyev@outlook.com**
 
